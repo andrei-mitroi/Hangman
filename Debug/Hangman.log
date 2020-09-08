@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\mitro\source\repos\Hangman\Source.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mitro\source\repos\Hangman\Source.cpp(54,21): warning C4018: '<': signed/unsigned mismatch
+  Hangman.vcxproj -> C:\Users\mitro\source\repos\Hangman\Debug\Hangman.exe

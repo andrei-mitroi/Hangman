@@ -1,0 +1,2 @@
+C:\Users\mitro\source\repos\Hangman\Debug\Hangman.exe
+C:\Users\mitro\source\repos\Hangman\Debug\Hangman.pdb
